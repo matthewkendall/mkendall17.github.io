@@ -8,6 +8,8 @@
 
 ## Usage
 
+$z+2$
+
 To use the Minimal theme:
 
 1. Add the following to your site's `_config.yml`:
